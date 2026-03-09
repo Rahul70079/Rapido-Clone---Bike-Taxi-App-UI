@@ -7,7 +7,7 @@ This project replicates the clean UI and responsive design of the Rapido website
 
 ## 🔗 Live Demo
 
-(Add your live project link here – Netlify / Vercel)
+https://rapido-clone-bike-taxi-app-ui.vercel.app/
 
 ---
 
@@ -19,9 +19,6 @@ This project replicates the clean UI and responsive design of the Rapido website
 <img width="1842" height="790" alt="Screenshot 2026-03-09 210556" src="https://github.com/user-attachments/assets/087c4ddc-cbfe-4745-91bb-a90d076ecb80" />
 <img width="1908" height="859" alt="Screenshot 2026-03-09 210626" src="https://github.com/user-attachments/assets/ee253ebb-8274-44e8-876a-8fdd1e180bd6" />
 <img width="1913" height="882" alt="Screenshot 2026-03-09 210723" src="https://github.com/user-attachments/assets/38d50726-af2f-4b2c-96b9-fc930c0103cf" />
-
-
-
 
 ---
 
@@ -36,9 +33,13 @@ This project replicates the clean UI and responsive design of the Rapido website
 ## 🚀 Features
 
 ✔️ Bike, Auto, Cab Booking UI
+
 ✔️ Safety & Download Sections
+
 ✔️ Social Media Integration
+
 ✔️ Mobile-Friendly Navigation
+
 ✔️ Optimized for Speed & Performance
 
 ---
@@ -61,7 +62,7 @@ rapido-clone
 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/rapido-clone.git
+git clone https://github.com/Rahul70079/Rapido-Clone---Bike-Taxi-App-UI
 ```
 
 2. Open the folder
